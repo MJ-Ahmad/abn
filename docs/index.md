@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Baitul Quran International Madrasha
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Founded in 2015 by Haji Manshurur Rahman Khan, this institution is dedicated to Quran memorization, Islamic education, and technical training. It provides structured programs for children and adults, supported by modern facilities and management systems.
 
-## Commands
+# Baitul Quran International Madrasha
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Founded in 2015 by Haji Manshurur Rahman Khan, this institution is dedicated to Quran memorization, Islamic education, and technical training. It provides structured programs for children and adults, supported by modern facilities and management systems.
 
-## Project layout
+**Director:** Hafiz Qari Maulana Abdul Basir Nomani  
+**Address:** Stadium Road, Nandibari, Muktagacha Upazila, Mymensingh, Bangladesh  
+**Contact:** 01918336668, 01712295195
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---

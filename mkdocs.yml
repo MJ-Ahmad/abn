@@ -1,1 +1,32 @@
-site_name: My Docs
+site_name: Baitul Quran International Madrasha
+site_description: Management System for Quran Memorization and Madrasha Operations
+site_author: Hafiz Qari Maulana Abdul Basir Nomani
+repo_url: https://github.com/mj-ahmad/abn
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: teal
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - BitulQuran:
+      - Home: BitulQuran/index.md
+      - Quran Memorization: Quran_Memorization/index.md
+      - Students: BitulQuran/students.md
+      - Teachers: BitulQuran/teachers.md
+      - Curriculum: BitulQuran/curriculum.md
+      - Assessments: BitulQuran/assessments.md
+      - Operations: BitulQuran/operations.md
+      - Adults: BitulQuran/adults.md
+      - Community: BitulQuran/community.md
+      - Automation: BitulQuran/automation.md
+      - Draft: BitulQuran/draft.md
+      - Note: BitulQuran/note.md
